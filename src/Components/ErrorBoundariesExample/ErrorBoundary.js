@@ -15,9 +15,6 @@ class ErrorBoundary extends Component{
         })
 
     }
-    componentDidMount() {
-
-    }
 
 
     
