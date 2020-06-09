@@ -75,7 +75,7 @@ function App() {
 
 
             <ClickCounter name={"Sruthi"}/>
-
+            <ClickCounter name={"Sruthi"}/>
             <ClickCounter name={"Sruthi"}/>
             <HoverCounter/>
         </div>
